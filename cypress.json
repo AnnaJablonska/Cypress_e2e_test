@@ -1,0 +1,14 @@
+{"video": true,
+  "failOnStatusCode": false,
+  "chromeWebSecurity": false,
+  "experimentalSourceRewriting": true,
+  "env": {
+    "homePageUrl": "http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation"
+},
+    "reporter": "junit",
+    "reporterOptions": {
+      "mochaFile": "results/TEST-[hash].xml",
+      "toConsole": true
+    }
+}
+
