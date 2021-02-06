@@ -12,8 +12,8 @@ npm install
 npm init
 
 ## Install Cypress via npm:
-
 cd /your/project/path
+
 npm install cypress --save-dev
 
 ## Install Typescript via npm:
