@@ -1,5 +1,5 @@
 # Cypress_e2e_test
-Login and registration tests
+Login and registration tests base on page: http://automationpractice.com
 
 
 # Project Description:
@@ -7,7 +7,7 @@ Project setup with Cypress.io and windows 10
 Written in Typescript
 
 # Test Setup:
-## Install Node (v6.x.x or later):
+## Install Node:
 npm install
 npm init
 
@@ -20,12 +20,11 @@ npm install cypress --save-dev
 
 npm install -g typescript
 
-## Install xpath plugin
+## Install xpath plugin:
 
 npm install -D cypress-xpath
 
 # Run tests:
-
-npx cypress open  - cypress browser is opened, now you can choose test to run
-
+Launch the cypress test runner
+npx cypress open
 
