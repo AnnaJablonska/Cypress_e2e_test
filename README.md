@@ -26,5 +26,6 @@ npm install -D cypress-xpath
 
 # Run tests:
 Launch the cypress test runner
+
 npx cypress open
 
