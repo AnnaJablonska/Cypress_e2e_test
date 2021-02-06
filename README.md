@@ -9,6 +9,7 @@ Written in Typescript
 # Test Setup:
 ## Install Node:
 npm install
+
 npm init
 
 ## Install Cypress via npm:
